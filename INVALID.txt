@@ -1,0 +1,5 @@
+INVALID DUE TO REGEX -  john..doe@example.com
+INVALID DUE TO REGEX -  hmbrand@msn
+INVALID DUE TO REGEX -  jadavis@-comcast.net
+INVALID DUE TO REGEX -  mcnihil@live
+INVALID DUE TO REGEX -  Abc.example.com
